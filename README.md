@@ -1,9 +1,9 @@
 # Kaggle-Optiver-Realized-Volatility-Prediction
-![input file image]()
-https://www.kaggle.com/c/optiver-realized-volatility-prediction
-どんなコンペ?: 
-開催期間: 
-[結果]()  
+![input file image]()<br>
+https://www.kaggle.com/c/optiver-realized-volatility-prediction<br>
+どんなコンペ?:<br>
+開催期間:<br>
+[結果]()<br>  
 <br>
 <br>
 <br>
@@ -52,6 +52,12 @@ A.issubset(B)
 |name|url|status|comment|
 |----|----|----|----|
 |Deep Smoothing of the Implied Volatility Surface|[URL](https://arxiv.org/abs/1906.05065)|解読中|-|
+|Pricing options and computing implied volatilities
+using neural networks|[URL](https://arxiv.org/pdf/1901.08943.pdf)|解読中|-|
+|Incorporating Prior Financial Domain Knowledge into Neural
+Networks for Implied Volatility Surface Prediction|[URL](https://arxiv.org/pdf/1904.12834.pdf)|解読中|-|
+|Gated Neural Networks for Option Pricing: Rationality by Design|[URL](https://arxiv.org/pdf/1609.07472.pdf)|解読中|-|
+|Gaussian Process Volatility Model|[URL](https://arxiv.org/pdf/1402.3085.pdf)|解読中|-|
 <br>
 
 
@@ -111,6 +117,9 @@ A.issubset(B)
 <br>
 <br>
 
+#### 2021-08-12
+- [ ] WAPとtradeデータ中のstock priceとの間に違いはあるのか? (違いが無いとするとWAPを算出する意味は?)
+- [ ] WAPを元に算出したrealized volatility (RV) とcsvデータ中のtargetの間に違いはあるのか? (違いが無いとするとRVを算出する意味は?)
 
 
 
