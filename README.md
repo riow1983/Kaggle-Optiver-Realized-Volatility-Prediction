@@ -56,6 +56,9 @@ A.issubset(B)
 |Incorporating Prior Financial Domain Knowledge into Neural Networks for Implied Volatility Surface Prediction|[URL](https://arxiv.org/pdf/1904.12834.pdf)|解読中|-|
 |Gated Neural Networks for Option Pricing: Rationality by Design|[URL](https://arxiv.org/pdf/1609.07472.pdf)|解読中|-|
 |Gaussian Process Volatility Model|[URL](https://arxiv.org/pdf/1402.3085.pdf)|解読中|-|
+|Financial Time Series Volatility Analysis Using
+Gaussian Process State-Space Models|[URL](https://www.ee.ryerson.ca/~xzhang/publications/globalsip2015-gpsv.pdf)|解読中|-|
+|HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction|[URL](https://www.researchgate.net/publication/340385140_HTML_Hierarchical_Transformer-based_Multi-task_Learning_for_Volatility_Prediction)|解読中|-|
 <br>
 
 
@@ -114,11 +117,6 @@ A.issubset(B)
 <br>
 <br>
 <br>
-
-#### 2021-08-12
-- [ ] WAPとtradeデータ中のstock priceとの間に違いはあるのか? (違いが無いとするとWAPを算出する意味は?)
-- [ ] WAPを元に算出したrealized volatility (RV) とcsvデータ中のtargetの間に違いはあるのか? (違いが無いとするとRVを算出する意味は?)
-
 
 
 
