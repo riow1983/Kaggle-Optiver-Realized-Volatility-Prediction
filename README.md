@@ -53,7 +53,7 @@ A.issubset(B)
 |----|----|----|----|
 |Deep Smoothing of the Implied Volatility Surface|[URL](https://arxiv.org/abs/1906.05065)|解読中|-|
 |Pricing options and computing implied volatilities using neural networks|[URL](https://arxiv.org/pdf/1901.08943.pdf)|解読中|-|
-|Incorporating Prior Financial Domain Knowledge into Neural Networks for Implied Volatility Surface Prediction|[URL](https://arxiv.org/pdf/1904.12834.pdf)|解読中|-|
+|Incorporating Prior Financial Domain Knowledge into Neural Networks for Implied Volatility Surface Prediction|[URL](https://arxiv.org/pdf/1904.12834.pdf)|解読中|社内発表か|
 |Gated Neural Networks for Option Pricing: Rationality by Design|[URL](https://arxiv.org/pdf/1609.07472.pdf)|解読中|-|
 |Gaussian Process Volatility Model|[URL](https://arxiv.org/pdf/1402.3085.pdf)|解読中|-|
 |Financial Time Series Volatility Analysis Using Gaussian Process State-Space Models|[URL](https://www.ee.ryerson.ca/~xzhang/publications/globalsip2015-gpsv.pdf)|解読中|-|
